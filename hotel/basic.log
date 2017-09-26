@@ -1,0 +1,55 @@
+2017-09-26 11:52:01,652 INFO [root] - Executed
+2017-09-26 12:21:33,857 INFO [root] - Executed
+2017-09-26 13:06:19,061 INFO [root] - Executed
+2017-09-26 14:57:09,472 INFO [root] - Executed
+2017-09-26 14:57:24,767 INFO [root] - Executed
+2017-09-26 15:38:03,862 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:38:49,356 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:39:04,901 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:40:59,825 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:43:05,073 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:45:41,239 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:46:19,619 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:46:40,170 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:54:13,884 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:59:17,168 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:59:28,313 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 16:00:28,716 ERROR [root] - Error occuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
+2017-09-26 16:26:17,012 INFO [root] - Executed
